@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Kays Holding Admin portal",
-  description: "At Kays, we help you",
+  title: "Login Portal",
+  description: "Login Portal",
   icons: {
     icon: [
       { url: "/favicon.ico" },
